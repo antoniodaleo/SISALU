@@ -1,0 +1,18 @@
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.BLL.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.BLL.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\obj\Debug\SISALU.BLL.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\obj\Debug\SISALU.BLL.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\obj\Debug\SISALU.BLL.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.DAL.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.Model.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.DAL.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.Model.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.BLL.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.BLL.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.DAL.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.Model.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.DAL.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\bin\Debug\SISALU.Model.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\obj\Debug\SISALU.BLL.csprojResolveAssemblyReference.cache
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\obj\Debug\SISALU.BLL.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.BLL\obj\Debug\SISALU.BLL.pdb

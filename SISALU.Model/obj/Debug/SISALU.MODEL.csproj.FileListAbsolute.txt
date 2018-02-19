@@ -1,0 +1,9 @@
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.Model\bin\Debug\SISALU.Model.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.Model\bin\Debug\SISALU.Model.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.Model\obj\Debug\SISALU.Model.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.Model\obj\Debug\SISALU.Model.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.Model\bin\Debug\SISALU.Model.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.Model\bin\Debug\SISALU.Model.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.Model\obj\Debug\SISALU.MODEL.csprojResolveAssemblyReference.cache
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.Model\obj\Debug\SISALU.Model.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.Model\obj\Debug\SISALU.Model.pdb

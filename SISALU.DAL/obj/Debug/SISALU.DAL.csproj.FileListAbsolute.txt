@@ -1,0 +1,21 @@
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.DAL\bin\Debug\SISALU.DAL.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.DAL\bin\Debug\SISALU.DAL.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.DAL\bin\Debug\SISALU.Model.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU.DAL\bin\Debug\SISALU.Model.pdb
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU.DAL\bin\Debug\SISALU.DAL.dll
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU.DAL\bin\Debug\SISALU.DAL.pdb
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU.DAL\bin\Debug\SISALU.Model.dll
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU.DAL\bin\Debug\SISALU.Model.pdb
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.dll
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.DAL\bin\Debug\SISALU.DAL.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.DAL\bin\Debug\SISALU.DAL.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.DAL\bin\Debug\SISALU.Model.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.DAL\bin\Debug\SISALU.Model.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.csprojResolveAssemblyReference.cache
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU.DAL\obj\Debug\SISALU.DAL.pdb

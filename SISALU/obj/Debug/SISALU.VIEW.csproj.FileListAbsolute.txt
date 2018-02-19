@@ -1,0 +1,34 @@
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\bin\SISALU.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\bin\SISALU.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\obj\Debug\SISALU.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\obj\Debug\SISALU.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\obj\Debug\SISALU.VIEW.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\bin\SISALU.BLL.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\bin\SISALU.Model.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\bin\SISALU.BLL.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\bin\SISALU.Model.pdb
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\bin\SISALU.DAL.dll
+D:\Nova pasta\Jonas Medeiros\ASP.NET\SISALU\SISALU\bin\SISALU.DAL.pdb
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\bin\SISALU.dll
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\bin\SISALU.pdb
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\bin\SISALU.BLL.dll
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\bin\SISALU.Model.dll
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\bin\SISALU.DAL.dll
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\bin\SISALU.BLL.pdb
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\bin\SISALU.Model.pdb
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\bin\SISALU.DAL.pdb
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\obj\Debug\SISALU.VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\obj\Debug\SISALU.dll
+C:\Users\Lab01Mic17\Desktop\Aps.net\SISALU\SISALU\obj\Debug\SISALU.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.dll.config
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.BLL.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.Model.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.DAL.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.BLL.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.Model.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\bin\SISALU.DAL.pdb
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\obj\Debug\SISALU.VIEW.csprojResolveAssemblyReference.cache
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\obj\Debug\SISALU.dll
+C:\Users\antonio\Documents\ASP.NET\SISALU\SISALU\obj\Debug\SISALU.pdb
